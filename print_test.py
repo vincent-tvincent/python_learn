@@ -1,4 +1,4 @@
-a=input(':')
+a=input('place enter a:')
 a1=int(a)
 b=input('?')
 b1=int(b)
